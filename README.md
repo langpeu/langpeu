@@ -1,4 +1,7 @@
-## Hi there 👋
+## 안녕하세요!! 👋
+
+- iOS 개발자 랑프 입니다.
+
 <!--
 <p align="center">
 <a href="https://github.com/simple-icons/simple-icons/actions?query=workflow%3AVerify+branch%3Adevelop"><img src="https://img.shields.io/github/actions/workflow/status/simple-icons/simple-icons/verify.yml?branch=develop&logo=github&label=tests" alt="Build status"/></a>
@@ -11,12 +14,6 @@
 </p>
 -->
 
-
-
-<a href="https://dsm.chzzk.synology.me"><img src="https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=Synology&logoColor=white"/></a>
-<a href="https://git.chzzk.synology.me/"><img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=Gitlab&logoColor=white"/></a>
-<a href="https://n8n.chzzk.synology.me"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/></a>
-<a href="https://nex.chzzk.synology.me"><img src="https://img.shields.io/badge/sonatype-1B1C30?style=flat-square&logo=sonatype&logoColor=white"/></a>
 
 ## Language
 ![js](https://img.shields.io/badge/ObjectiveC-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -59,7 +56,6 @@
 ![js](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![js](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
-
 ## Contents
 ![js](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![js](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -67,11 +63,20 @@
 ![js](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 ![js](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
+
 ## Build Something
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=langpeu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=langpeu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=langpeu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=langpeu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
+## Private Service
+<a href="https://dsm.chzzk.synology.me"><img src="https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=Synology&logoColor=white"/></a>
+<a href="https://git.chzzk.synology.me/"><img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=Gitlab&logoColor=white"/></a>
+<a href="https://n8n.chzzk.synology.me"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/></a>
+<a href="https://nex.chzzk.synology.me"><img src="https://img.shields.io/badge/sonatype-1B1C30?style=flat-square&logo=sonatype&logoColor=white"/></a>
+
 
 ## SNS
 <a href="https://instagram.com/langpeu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
