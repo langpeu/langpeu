@@ -71,7 +71,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=langpeu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-## Private Service
+## Private Server
 <a href="https://dsm.chzzk.synology.me"><img src="https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=Synology&logoColor=white"/></a>
 <a href="https://git.chzzk.synology.me/"><img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=Gitlab&logoColor=white"/></a>
 <a href="https://n8n.chzzk.synology.me"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/></a>
