@@ -1,9 +1,6 @@
 ## 안녕하세요!! 👋
 
-![IMAGE 2024-11-24 16:02:33](https://github.com/user-attachments/assets/b2c2a94b-84bb-422b-a9d8-f03122682593)
-
-- iOS 개발자 랑프입니다. gitlab만 쓰다 github로 넘어왔습니다.
- 일단 해본 것들 기술 스택이랍시고, 프로필에 채워 봤습니다. 이제 github 시작합니다.
+- iOS 개발자 랑프입니다.
 
 <!--
 <p align="center">
